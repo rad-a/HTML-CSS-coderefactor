@@ -1,12 +1,13 @@
 # First Homework: HTML CSS Code Refactor
 Assignment to practice code refactoring for HTML and CSS.
-
+## Deployed Application URL
+https://rad-a.github.io/HTML-CSS-coderefactor/
 ## Project Objective  
 The objective of this project is to refactor the HTML and CSS code for a site. The client is a marketing company that is looking to optimize their site for search engines and to meet accessibility standards. 
 
 ## The Work
 
-### 1. Accessibility: 
+### 1. Accessibility
 Alt attributes were added for all image elements. 
 
 ### 2. Semantic HTML 
@@ -16,4 +17,4 @@ Div tags were replaced with the appropriate semantic HTML tags when applicable. 
 
 The CSS was reordered to follow a sequential order in combination with the HTML code. 
 
-With the code refactoring complete, the client's site is better equipped for search engines and accessibility. 
+With the code refactoring complete, the client's site is better equipped for search engines and is closer to meeting accessibility. 
